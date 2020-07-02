@@ -28,6 +28,8 @@ git commit -m ":memo: Adiciona README
 
 ## ✔️ Resultado
 
+<img src=".github/Result.png">
+
 ## 🔥 Como fazer pelo terminal
 
 ```bash
