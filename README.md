@@ -47,6 +47,8 @@ $ git commit -m ":memo: Adiciona README
 $ git push origin master
 ```
 
+<img src=".github/commit_ex.gif">
+
 ## 🚀 Padrões de emojis
 
 |   Commit type              | Emoji                                         |
